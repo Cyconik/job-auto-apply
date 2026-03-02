@@ -23,7 +23,7 @@
 | 📊 Tracker + Export | Application history + Excel export |
 
 ---
-## 📄 Download Template
+## 📄 Download Resume Template
 
 [Download Template](https://docs.google.com/document/d/1u97NTEgTwAS570WHzO5yFmIAUQcqkn4P/edit?usp=drive_link)
 
