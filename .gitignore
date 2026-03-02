@@ -1,0 +1,11 @@
+config.env
+.env
+*.json
+screenshots/
+venv/
+__pycache__/
+*.pyc
+*.pyo
+.DS_Store
+job_applications.xlsx
+job_applications.csv
